@@ -20,7 +20,6 @@ npm run dev
 `
 
 ##  Key Features
-*   **Senior Signal**: Demonstrates core architectural principles.
 *   **Verified**: Part of the 2026 Hybrid Engineer Blueprint.
 
 ##  Architecture
